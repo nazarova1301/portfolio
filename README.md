@@ -32,8 +32,8 @@
 
 ## Тестовые артефакты :memo:
 
-* [Hitch](https://github.com/nazarova1301/hitch) – UI и функциональное тестирования
-* [Intershop](https://github.com/nazarova1301/intershop) – исследовательское и API тестирования
+* [Hitch](https://github.com/nazarova1301/hitch) – UI и функциональное тестирование
+* [Intershop](https://github.com/nazarova1301/intershop) – исследовательское и API тестирование
 * [Skillcinema](https://github.com/nazarova1301/skillcinema) – тестирование приложения для Android
 * [PostgreSQL](https://github.com/nazarova1301/postgresql) – запросы и сценарии проверки базы данных
 * [Python and PyCharm](https://github.com/nazarova1301/pycharm) – базовый синтаксис и первые автотесты 
