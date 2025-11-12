@@ -33,8 +33,9 @@
 ## Тестовые артефакты :memo:
 
 * [Hitch](https://github.com/nazarova1301/hitch) – UI и функциональное тестирование
-* [Intershop](https://github.com/nazarova1301/intershop) – Smoke и API тестирование
+* [Intershop](https://github.com/nazarova1301/intershop) – smoke и API тестирование
 * [Skillcinema](https://github.com/nazarova1301/skillcinema) – тестирование приложения для Android
+* [DevTools](https://github.com/nazarova1301/devtools) – эффективное использование Chrome DevTools
 * [PostgreSQL](https://github.com/nazarova1301/postgresql) – запросы и сценарии проверки базы данных
 * [Python and PyCharm](https://github.com/nazarova1301/pycharm) – базовый синтаксис и первые автотесты 
 * [Git Bash](https://github.com/nazarova1301/git) – основные команды управления версиями
