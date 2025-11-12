@@ -6,13 +6,12 @@
 
 <img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp" height="245" alt="About me gif">
 
-* :books: В настоящее время я изучаю основы SQL с помощью СУБД PostgreSQL и инструмента pgAdmin 4.
+* :books: В настоящее время изучаю основы SQL с помощью СУБД PostgreSQL и инструмента pgAdmin 4.
 * :mortar_board: Моим последним завершённым обучением был курс "Инженер-тестировщик" от компании "Ростелеком ИТ".
 * :eyes: Мне нравится искать ошибки как в ПО, так и в жизни, осознавая, что мы все живём в забагованной бета-версии Земли.
-* :handshake: Будь то командный мозговой штурм или тихое рутинное тестирование, мне нравятся обе стороны работы по обеспечению качества.
-* :woman_technologist: Постоянно прохожу курсы на платформе Stepik и читаю книги для саморазвития.
+* :handshake: Будь то командный мозговой штурм или тихое рутинное тестирование, готова находиться по обе стороны работы по обеспечению качества.
 
-## Инструменты, которые я использую в работе :hammer_and_wrench:
+## Инструменты, которые я использую в своей работе :hammer_and_wrench:
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/z8qX6XNHOIRaXjXotyuPKLgekAa1XZ-8ny34CpbUKoFl8-GT2kXZFM-dVAj8VCVxCw" title="YouGile" alt="YouGile" width="50" height="50"/>
@@ -32,6 +31,13 @@
 </p>
 
 ## Тестовые артефакты :memo:
+
+* [Hitch](https://github.com/nazarova1301/hitch) – UI и функциональное тестирование
+* [Intershop](https://github.com/nazarova1301/intershop) – исследовательское и API тестирование
+* [Skillcinema](https://github.com/nazarova1301/skillcinema) – тестирование приложения для Android
+* [PostgreSQL](https://github.com/nazarova1301/postgresql) – запросы и сценарии проверки базы данных
+* [Python and PyCharm](https://github.com/nazarova1301/pycharm) – базовый синтаксис и первые автотесты 
+* [Git Bash](https://github.com/nazarova1301/git) – основные команды управления версиями
 
 <h3 align="center"> :calling: Предлагаю начать сотрудничество! </h3>
 <p align="center">
