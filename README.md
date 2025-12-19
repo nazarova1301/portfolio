@@ -9,7 +9,6 @@
 * :books: В настоящее время изучаю основы SQL с помощью СУБД PostgreSQL и инструмента DBeaver.
 * :mortar_board: Моим последним завершённым обучением был курс "Инженер по ручному тестированию 3.0" от компании "Skillbox".
 * :eyes: Мне нравится искать ошибки как в ПО, так и в жизни, осознавая, что все мы живём в неидеальном мире.
-* :handshake: Будь то командный мозговой штурм или тихое рутинное тестирование, готова находиться по обе стороны работы по обеспечению качества.
 * :woman_technologist: Прохожу курсы на платформе Stepik, читаю профильные статьи на Хабре, ежедневно изучаю английский язык <img src="https://stickerly.pstatic.net/sticker_pack/SjPcCL28t8VxnbnWdwZSEQ/L3RYJB/2/591ec4b7-9732-4139-9a58-79f371a204cc.png" width="30" height="30" alt="Duolingo">
 
 ## Инструменты, которые я использую в своей работе :hammer_and_wrench:
@@ -30,7 +29,6 @@
   <img src="https://o.quizlet.com/8TbHnZz4geK2cG2KORCz0A_b.png" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="50" height="50"/>
   <img src="https://gitlab.in2p3.fr/uploads/-/system/project/avatar/23727/Git-bash.png" title="Git Bash" alt="Git Bash" width="50" height="50"/>
-  <img src="https://static.tildacdn.com/tild3861-6339-4531-a230-326663613733/deepseek-logo-03.png" title="DeepSeek" alt="DeepSeek" width="50" height="50"/>
 </p>
 
 ## Тестовые артефакты :memo:
