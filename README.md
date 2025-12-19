@@ -1,13 +1,13 @@
 ## Oh, hi :lady_beetle:
 
-Меня зовут Анна, и я начинающий QA Manual Engineer (ручной тестировщик). Здесь я делюсь примерами портфолио по веб- и мобильному тестированию, созданными на основе курсов и личных проектов. Моё резюме можно посмотреть [здесь](https://disk.yandex.ru/i/nhsfOo48dIggcQ "Резюме") :innocent:
+Меня зовут Анна, и я начинающий QA Manual Engineer (ручной тестировщик). Здесь я делюсь примерами портфолио по веб- и мобильному тестированию, созданными на основе курсов и личных проектов. Моё резюме можно посмотреть [здесь](https://disk.yandex.ru/i/-qIRYQaUIZjv1g) :innocent:
 
 ## Несколько интересных фактов обо мне :heavy_check_mark:
 
 <img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp" height="245" alt="About me gif">
 
-* :books: В настоящее время изучаю основы SQL с помощью СУБД PostgreSQL и инструмента pgAdmin 4.
-* :mortar_board: Моим последним завершённым обучением был курс "Инженер-тестировщик" от компании "Ростелеком ИТ".
+* :books: В настоящее время изучаю основы SQL с помощью СУБД PostgreSQL и инструмента DBeaver.
+* :mortar_board: Моим последним завершённым обучением был курс "Инженер по ручному тестированию 3.0" от компании "Skillbox".
 * :eyes: Мне нравится искать ошибки как в ПО, так и в жизни, осознавая, что все мы живём в неидеальном мире.
 * :handshake: Будь то командный мозговой штурм или тихое рутинное тестирование, готова находиться по обе стороны работы по обеспечению качества.
 * :woman_technologist: Прохожу курсы на платформе Stepik, читаю профильные статьи на Хабре, ежедневно изучаю английский язык <img src="https://stickerly.pstatic.net/sticker_pack/SjPcCL28t8VxnbnWdwZSEQ/L3RYJB/2/591ec4b7-9732-4139-9a58-79f371a204cc.png" width="30" height="30" alt="Duolingo">
@@ -17,14 +17,16 @@
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/z8qX6XNHOIRaXjXotyuPKLgekAa1XZ-8ny34CpbUKoFl8-GT2kXZFM-dVAj8VCVxCw" title="YouGile" alt="YouGile" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1200px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Yandex.Tracker_2018.svg/800px-Logo_Yandex.Tracker_2018.svg.png" title="Яндекс Трекер" alt="Яндекс Трекер" width="50" height="50"/>
+  <img src="https://softway.ru/upload/iblock/e94/qrmnhhgizlzd4nzxhidghwdjwccn455v.png" title="Яндекс Трекер" alt="Яндекс Трекер" width="50" height="50"/>
   <img src="https://vladislav-sipatrov-qa.github.io/test.png" title="Test IT" alt="Test IT" width="50" height="50"/>
-  <img src="https://i.pinimg.com/originals/fc/11/2e/fc112e58bcd30d3e158923591cb8ae79.png" title="Figma" alt="Figma" width="50" height="50"/>
+  <img src="https://cdn.prod.website-files.com/64da3906f0e5df9da7e97e38/68036b9dc381ab9567fbcfab_Figma%20Logo%20blanc.png" title="Figma" alt="Figma" width="50" height="50"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/98197909/222990768-452ebe01-9134-48af-b539-3dc9ef1eb179.png" title="Swagger" alt="Swagger" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://media.forgecdn.net/avatars/1077/114/638615040293569947.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="50" height="50"/>
   <img src="https://o.quizlet.com/8TbHnZz4geK2cG2KORCz0A_b.png" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="50" height="50"/>
   <img src="https://gitlab.in2p3.fr/uploads/-/system/project/avatar/23727/Git-bash.png" title="Git Bash" alt="Git Bash" width="50" height="50"/>
