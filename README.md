@@ -6,8 +6,8 @@
 
 <img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp" height="245" alt="About me gif">
 
-* :books: В настоящее время изучаю основы SQL с помощью СУБД PostgreSQL и инструмента DBeaver.
-* :mortar_board: Моим последним завершённым обучением был курс "Инженер по ручному тестированию 3.0" от компании "Skillbox".
+* :books: В настоящее время изучаю основы Python с помощью IDE PyCharm.
+* :mortar_board: Моим последним завершённым обучением был курс "Основы SQL" от компании "Skillbox".
 * :eyes: Мне нравится искать ошибки как в ПО, так и в жизни, осознавая, что все мы живём в неидеальном мире.
 * :woman_technologist: Прохожу курсы на платформе Stepik, читаю профильные статьи на Хабре, ежедневно изучаю английский язык <img src="https://stickerly.pstatic.net/sticker_pack/SjPcCL28t8VxnbnWdwZSEQ/L3RYJB/2/591ec4b7-9732-4139-9a58-79f371a204cc.png" width="30" height="30" alt="Duolingo">
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/98197909/222990768-452ebe01-9134-48af-b539-3dc9ef1eb179.png" title="Swagger" alt="Swagger" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1080px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="50" height="50"/>
   <img src="https://o.quizlet.com/8TbHnZz4geK2cG2KORCz0A_b.png" title="Python" alt="Python" width="50" height="50"/>
@@ -42,7 +42,6 @@
 
 <h3 align="center"> :calling: Предлагаю начать сотрудничество! </h3>
 <p align="center">
-  <a href="https://t.me/nazarova1301"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/560px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="Telegram"/></a>
+  <a href="https://t.me/nazarova1301"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/500px-Telegram_2019_Logo.svg.png" width="40" height="40" alt="Telegram"/></a>
   <a href="mailto:anna_nazarova@ro.ru"><img src="https://gji.nso.ru/sites/gji.nso.ru/wodby_files/files/page_308/1676166752_grizly-club-p-elektronnii-adres-klipart-1.png" width="40" height="40" alt="E-mail"/></a>
-  <a href="https://wa.me/79193933703"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1024px-WhatsApp.svg.png" width="40" height="40" alt="Whatsapp"/></a>
 </p>
