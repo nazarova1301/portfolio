@@ -7,7 +7,7 @@
 <img align="right" src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/c892db4277275dd7ebf1677e4fd0b4f1669254fb1f3e55a7d36105fc5e5ced82.webp" height="245" alt="About me gif">
 
 * :books: В настоящее время изучаю основы Python с помощью IDE PyCharm.
-* :mortar_board: Моим последним завершённым обучением был курс "Основы SQL" от компании "Skillbox".
+* :mortar_board: Моим последним завершённым обучением был курс "Автотесты на Java. Базовая часть" от компании "Skillbox".
 * :eyes: Мне нравится искать ошибки как в ПО, так и в жизни, осознавая, что все мы живём в неидеальном мире.
 * :woman_technologist: Прохожу курсы на платформе Stepik, читаю профильные статьи на Хабре, ежедневно изучаю английский язык <img src="https://stickerly.pstatic.net/sticker_pack/SjPcCL28t8VxnbnWdwZSEQ/L3RYJB/2/591ec4b7-9732-4139-9a58-79f371a204cc.png" width="30" height="30" alt="Duolingo">
 
@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/z8qX6XNHOIRaXjXotyuPKLgekAa1XZ-8ny34CpbUKoFl8-GT2kXZFM-dVAj8VCVxCw" title="YouGile" alt="YouGile" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1200px-YouTrack_Icon.svg.png" title="YouTrack" alt="YouTrack" width="50" height="50"/>
   <img src="https://softway.ru/upload/iblock/e94/qrmnhhgizlzd4nzxhidghwdjwccn455v.png" title="Яндекс Трекер" alt="Яндекс Трекер" width="50" height="50"/>
   <img src="https://vladislav-sipatrov-qa.github.io/test.png" title="Test IT" alt="Test IT" width="50" height="50"/>
   <img src="https://cdn.prod.website-files.com/64da3906f0e5df9da7e97e38/68036b9dc381ab9567fbcfab_Figma%20Logo%20blanc.png" title="Figma" alt="Figma" width="50" height="50"/>
@@ -24,11 +23,13 @@
   <img src="https://user-images.githubusercontent.com/98197909/222990768-452ebe01-9134-48af-b539-3dc9ef1eb179.png" title="Swagger" alt="Swagger" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/500px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/960px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="VSCode" width="50" height="50"/>
   <img src="https://o.quizlet.com/8TbHnZz4geK2cG2KORCz0A_b.png" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1280px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="50" height="50"/>
   <img src="https://gitlab.in2p3.fr/uploads/-/system/project/avatar/23727/Git-bash.png" title="Git Bash" alt="Git Bash" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="GitLab" alt="GitLab" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>
 </p>
 
 ## Тестовые артефакты :memo:
@@ -38,7 +39,8 @@
 * [Skillcinema](https://github.com/nazarova1301/skillcinema) – тестирование приложения для Android
 * [DevTools](https://github.com/nazarova1301/devtools) – эффективное использование Chrome DevTools
 * [PostgreSQL](https://github.com/nazarova1301/postgresql) – запросы и сценарии проверки базы данных
-* [Python and PyCharm](https://github.com/nazarova1301/pycharm) – базовый синтаксис и первые автотесты
+* [Python and PyCharm](https://github.com/nazarova1301/pycharm) – базовый синтаксис и первые автотесты на Python
+* [Autotesting Java](https://gitlab.skillbox.ru/users/anna_nazarova_3/projects) – базовый синтаксис и первые автотесты на Java
 
 <h3 align="center"> :calling: Предлагаю начать сотрудничество! </h3>
 <p align="center">
