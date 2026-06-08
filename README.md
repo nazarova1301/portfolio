@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/z8qX6XNHOIRaXjXotyuPKLgekAa1XZ-8ny34CpbUKoFl8-GT2kXZFM-dVAj8VCVxCw" title="YouGile" alt="YouGile" width="50" height="50"/>
-  <img src="https://softway.ru/upload/iblock/e94/qrmnhhgizlzd4nzxhidghwdjwccn455v.png" title="Яндекс Трекер" alt="Яндекс Трекер" width="50" height="50"/>
+  <img src="https://freesoft.ru/storage/images/765/7648/764721/764721_normal.png" title="Яндекс Трекер" alt="Яндекс Трекер" width="50" height="50"/>
   <img src="https://vladislav-sipatrov-qa.github.io/test.png" title="Test IT" alt="Test IT" width="50" height="50"/>
   <img src="https://cdn.prod.website-files.com/64da3906f0e5df9da7e97e38/68036b9dc381ab9567fbcfab_Figma%20Logo%20blanc.png" title="Figma" alt="Figma" width="50" height="50"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="50" height="50"/>
